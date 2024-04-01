@@ -55,11 +55,3 @@ class _MyAppState extends State<MyApp> {
   }
 }
 
-//eve.holt@reqres.in
-// echo "# flutter_task" >> README.md
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/avipanthi007/flutter_task.git
-// git push -u origin main
